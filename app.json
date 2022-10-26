@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ameen1982 ",
-    "repository": "https://github.com/ameen1982 ",
+    "website": "https://github.com/ameen1982/AutoFilterBotV3 ",
+    "repository": "https://github.com/ameen1982/AutoFilterBotV3 ",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
